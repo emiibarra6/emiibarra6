@@ -14,7 +14,7 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tecnologias</h3>
 
 
 
@@ -26,9 +26,9 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Por aprender</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 
+- 🔧 &nbsp; AWS | TDD | Docker🐳 
 
 <hr>
 
