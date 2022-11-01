@@ -28,7 +28,7 @@
 
 <h3>🛠 Por aprender</h3>
 
-- 🔧 &nbsp; AWS | TDD | Docker🐳 
+- 🔧 &nbsp;  TDD | Docker🐳 
 
 <hr>
 
