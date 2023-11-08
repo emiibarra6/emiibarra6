@@ -6,7 +6,7 @@
 
 
 
-- 🔧 &nbsp; Trabajo en Sistemas en la Municipalidad de Guaminí
+- 🔧 &nbsp; Trabajo en TGV
 
 - 🎓 &nbsp; Estudié Analista de Sistemas a distancia en el Instituto Santo Domingo de Córdoba
 
