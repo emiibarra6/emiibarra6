@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp;   HTML | CSS | JavaScript | Bootstrap | Node.js 
+- 💻 &nbsp;   HTML | CSS | PHP | JavaScript | Bootstrap | Node.js 
 
 - 🛢 &nbsp; MySQL | MongoDB
 
