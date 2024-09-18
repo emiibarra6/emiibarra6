@@ -8,6 +8,8 @@
 
 - 🔧 &nbsp; Trabajo en TGV
 
+- 🔧 &nbsp; Desarrollador web en https://www.orquestandoideas.com/
+
 - 🎓 &nbsp; Estudié Analista de Sistemas a distancia en el Instituto Santo Domingo de Córdoba
 
 
